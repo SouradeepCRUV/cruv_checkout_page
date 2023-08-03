@@ -5,6 +5,7 @@ A new Flutter project for displaying a static page for CRUV by Souradeep Banerje
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Video Demo Link: https://github.com/cruvdev/unisen_app/assets/121785437/47a7ecb5-96f7-4737-95bd-c5228e670e26
 
 A few resources to get you started if this is your first Flutter project:
 
